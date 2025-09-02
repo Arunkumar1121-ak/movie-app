@@ -3,7 +3,7 @@ import { useState } from 'react'
 //import './App.css'
 import Home from './pages/Home'
 import Watchlist from './pages/Watchlist'
-import Navbar from './Pages/Navbar'
+import Navbar from './pages/Navbar'
 import { WatchListprovider } from './context/WatchListcontext'
 
 function App() {
