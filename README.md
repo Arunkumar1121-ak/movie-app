@@ -1,12 +1,30 @@
+
+
+# 🎬 Movie App (React + Vite + TMDB API)
+
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive movie discovery app built with **React + Vite**, powered by the **TMDB (The Movie Database) API**, and deployed on **Vercel**.  
+Users can browse trending movies, search for their favorite films, and view detailed information about each movie.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 [Click here to view the app](https://movie-app-1-chi.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+- ⚛️ **React + Vite** – Frontend framework
+- 🎨 **CSS / Tailwind CSS** – Styling (adjust if you used only CSS)
+- 🌐 **TMDB API** – Movie data source
+- ☁️ **Vercel** – Deployment & hosting
+
+---
+
+## ✨ Features
+- 🔍 Search for movies using TMDB API  
+- 🎞 View trending and popular movies  
+- 📖 See movie details (title, rating, overview, poster, etc.)  
+- 📱 Responsive UI for all devices  
+- ⚡ Fast performance with Vite  
